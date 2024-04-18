@@ -1,0 +1,11 @@
+pycaret==3.3.0
+kaggle
+python-dotenv
+numpy
+pandas
+joblib==1.3.0
+scikit-learn==1.4.2
+xgboost==2.0.3
+optuna==3.6.1
+optuna-integration==3.6.0
+scikit-optimize==0.10.1
